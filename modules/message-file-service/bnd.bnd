@@ -1,0 +1,5 @@
+Bundle-Name: message-file-service
+Bundle-SymbolicName: it.keybiz.corso.lfr.message.service.file
+Bundle-Version: 1.0.0
+
+-metatype: *

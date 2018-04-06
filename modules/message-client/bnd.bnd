@@ -1,0 +1,4 @@
+Bundle-Name: message-client
+Bundle-SymbolicName: it.keybiz.corso.lfr.message.service.client
+Bundle-Version: 1.0.0
+Export-Package: it.keybiz.corso.lfr.message.service.client

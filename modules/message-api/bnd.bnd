@@ -1,0 +1,6 @@
+Bundle-Name: message-api
+Bundle-SymbolicName: it.keybiz.corso.lfr.message
+Bundle-Version: 1.0.0
+Export-Package: \
+	it.keybiz.corso.lfr.message.api,\
+	it.keybiz.corso.lfr.message.api.exception

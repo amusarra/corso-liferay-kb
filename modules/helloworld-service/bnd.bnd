@@ -1,0 +1,3 @@
+Bundle-Name: helloworld-service
+Bundle-SymbolicName: it.smc.corso.service.helloworld.impl
+Bundle-Version: 1.0.0
