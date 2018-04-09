@@ -1,0 +1,9 @@
+Bundle-Name: SMC Manage Tasks API
+Bundle-SymbolicName: it.smc.lrtraining.manage.tasks.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	it.smc.lrtraining.manage.tasks.constants,\
+	it.smc.lrtraining.manage.tasks.exception,\
+	it.smc.lrtraining.manage.tasks.model,\
+	it.smc.lrtraining.manage.tasks.service,\
+	it.smc.lrtraining.manage.tasks.service.persistence

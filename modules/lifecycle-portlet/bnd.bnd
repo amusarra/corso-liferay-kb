@@ -1,0 +1,4 @@
+Bundle-Name: lifecycle-portlet
+Bundle-SymbolicName: it.smc.corso.lifecycle
+Bundle-Version: 1.0.0
+Export-Package: it.smc.corso.lifecycle.constants
